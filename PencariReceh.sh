@@ -31,7 +31,7 @@ echo
 echo
 echo  "                 _________________________" | lolcat
 echo  "                 |                       |" | lolcat
-echo  "                 | TOOL'S RooT./T-REX    |" | lolcat
+echo  "                 | TOOL'S DPPLNR         |" | lolcat
 echo  "###########################################################" | lolcat
 echo  "                  TOOL'S INSTALLER  TERMUX " |lolcat
 echo  ""
